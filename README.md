@@ -1,0 +1,1 @@
+![](https://github.com/DiegoAlexanderGomezLeal/practicaGrid/blob/ejercicio_1/storage/img/base_0.png)
